@@ -10,7 +10,7 @@
 
 > SalvoRTOS config files: https://github.com/Rishab2710/rtos-embedded-system/blob/main/salvomem.c
 
-> Project Report (after clicking the link, Click on View Raw to download the Word document): https://github.com/Rishab2710/rtos-embedded-system/blob/main/ProjectReport_RishabSingh.docx
+> Project Report: https://github.com/Rishab2710/rtos-embedded-system/blob/main/ProjectReport_RishabSingh.pdf
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Task description:-
