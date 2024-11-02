@@ -27,7 +27,4 @@ Task4: TASK_PRINT_TEMP_POT - Use the UART and send the data received from Task1.
 ### Note: All the tasks are given equal priority of 10 as required by the project description and control flow. 
 
 
-----------------------------------------------------------------------------------------------------------------------
-Created by: Smit Chawda (Submitted to: Sheridan College - F.A.S.T)
-
 
