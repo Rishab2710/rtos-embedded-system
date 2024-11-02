@@ -4,11 +4,11 @@
 
 > Tags: Salvo RTOS, C Programming, Real Time embedded Program
 
-> Main file: https://github.com/theSmitChawda/rtos-embedded-system/blob/master/RtosMain.c
+> Main file: https://github.com/Rishab2710/rtos-embedded-system/blob/main/RtosMain.c
 
-> SalvoRTOS header file: https://github.com/theSmitChawda/rtos-embedded-system/blob/master/salvocfg.h
+> SalvoRTOS header file: https://github.com/Rishab2710/rtos-embedded-system/blob/main/salvocfg.h
 
-> SalvoRTOS config files: https://github.com/theSmitChawda/rtos-embedded-system/blob/master/salvomem.c
+> SalvoRTOS config files: https://github.com/Rishab2710/rtos-embedded-system/blob/main/salvomem.c
 
 > Project Report (after clicking the link, Click on View Raw to download the Word document): https://github.com/theSmitChawda/rtos-embedded-system/blob/master/ProjectReport_SmitChawda.docx
 
